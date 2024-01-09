@@ -1,4 +1,5 @@
 # TEC_Prediction
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10473190.svg)](https://doi.org/10.5281/zenodo.10473190)
 
 ## Usage
 
@@ -19,7 +20,7 @@ optional arguments:
 ```
 ## File explanation
 
-- data  
+- data
   - place tec data [SWGIM_year](https://drive.google.com/drive/folders/1N1WxlP5DnnSkMMCD1XeHE9bYxL81PisT?usp=share_link) folder in "./data/raw_data" folder
 - config.ini  
   - config file, containing all configurations  
