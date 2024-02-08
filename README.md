@@ -1,7 +1,7 @@
 # Global Total Electron Content Prediction
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10473190.svg)](https://doi.org/10.5281/zenodo.10473190)
 
-[link to paper]()
+[link to paper](https://doi.org/10.1029/2023SW003579)
 
 This is the implementation of paper **Forecasting of global ionosphere maps with multi-day1
 lead time using transformer-based neural networks**
